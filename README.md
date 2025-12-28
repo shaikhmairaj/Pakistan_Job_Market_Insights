@@ -1,9 +1,8 @@
 # Pakistan_Job_Market_Insights
-# 🇵🇰 Pakistan Job Market Analysis Dashboard
 
 ## 📌 Project Overview
 
-This project analyzes Pakistan’s job market using a clean, structured dataset and presents insights through an **interactive Tableau dashboard**. The goal is to understand **job demand, salary trends, career levels, and city-wise opportunities** — exactly what recruiters expect from a Data Analyst portfolio project.
+This project analyzes Pakistan’s job market using a clean, structured dataset and presents insights through an **interactive Tableau dashboard**. The goal is to understand **job demand, salary trends, career levels, and city-wise opportunities** — 
 
 The dashboard is designed to be **simple, insightful, and recruiter-friendly**, with KPIs, filters, and meaningful visualizations.
 
@@ -20,10 +19,7 @@ The dashboard is designed to be **simple, insightful, and recruiter-friendly**, 
 
 ## 🗂 Dataset Details
 
-**Source:** Synthetic clean dataset (portfolio-ready)
-
-**Rows:** 500
-**Columns:** 12
+**Source:** Kaggle
 
 ### Columns Used:
 
@@ -84,7 +80,6 @@ All filters dynamically update KPIs and charts.
 
 ## 🖼 Dashboard Screenshots
 
-> 📌 **Add screenshots here after publishing**
 
 ### Main Dashboard View
 
@@ -121,6 +116,7 @@ All filters dynamically update KPIs and charts.
 ## 🏆 Author
 
 **Mairaj Shaikh**
+
 Data Analyst
 
 ---
