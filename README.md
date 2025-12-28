@@ -88,8 +88,7 @@ All filters dynamically update KPIs and charts.
 
 ### Main Dashboard View
 
-https://github.com/shaikhmairaj/Pakistan_Job_Market_Insights/blob/main/Dashboard%20Image.jpg
-
+![Dashboard Screenshot](https://raw.githubusercontent.com/shaikhmairaj/Pakistan_Job_Market_Insights/main/Dashboard%20Image.jpg)
 
 
 ## 📈 Key Insights
